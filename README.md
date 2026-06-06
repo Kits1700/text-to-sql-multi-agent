@@ -3,6 +3,13 @@
 Bilingual (English + Czech) Text-to-SQL pipeline using a multi-agent loop.
 
 ---
+## Demo
+
+
+https://github.com/user-attachments/assets/d81c0ade-bdf2-4140-9f36-be5727574888
+
+
+
 
 ## How to run
 
